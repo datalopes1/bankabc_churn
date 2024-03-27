@@ -9,7 +9,7 @@ Neste projeto será realizado o processo de EDA (Exploratory Data Analysis) com 
 ## 1.1. Os dados, o problema e os objetivos
 ### O que é Churn?
 
-Churn pode ser traduzido de maneira livre, como a taxa de perda de clientes ao longo do tempo. É uma métrica importante para setores onde a rentabilidade depende da recorrência da compra de produtos ou renovação de serviços, como em imobiliárias focadas em aluguel, planos de assinatura em geral, entre outros. No setor bancário está perda de clientes pode ser considerada a partir de vários aspectos além do encerramento da conta como:
+Churn pode ser traduzido de maneira livre, como a taxa de perda de clientes ao longo do tempo. É uma métrica importante para setores onde a rentabilidade depende da recorrência da compra de produtos ou renovação de serviços, como em imobiliárias focadas em aluguel, planos de assinatura em geral, entre outros. No setor bancário esta perda de clientes pode ser considerada a partir de vários aspectos além do encerramento da conta como:
 
 - Inatividade alongada;
 - Redução das atividades;
