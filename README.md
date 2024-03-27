@@ -15,7 +15,7 @@ Churn pode ser traduzido de maneira livre, como a taxa de perda de clientes ao l
 - Redução das atividades;
 - Portabilidade do crédito para outros bancos.
 
-Portando é importante entender o que está levando os consumidores a deixar o seu serviço, para corrigir estes pontos e aumentar a retenção. Em um setor com alta concorrência e uma variedade infidável de opções como o bancário, especialmente após a explosão das fintechs, ter este controle e processos de melhoria constante da prestação de serviços é uma das chaves para a longevidade. 
+Portando é importante entender o que está levando os consumidores a deixar o seu serviço, para corrigir estes pontos e aumentar a retenção. Em um setor com alta concorrência e uma variedade infindável de opções como o bancário, especialmente após a explosão das fintechs, ter este controle e processos de melhoria constante da prestação de serviços é uma das chaves para a longevidade. 
 
 ### Estrutura do dataset
 Os dados tratam de um banco que presta serviços internacionalmente em países europeus, e tem as seguintes colunas:
